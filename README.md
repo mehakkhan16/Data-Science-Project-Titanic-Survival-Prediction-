@@ -76,9 +76,6 @@ The goal is to build a classification model that can accurately predict passenge
 ├── report.pdf (to be added)
 
 ## 📬 Contact
-Feel free to connect with me for feedback or collaboration.
-
-LinkedIn: www.linkedin.com/in/mehak-khan-688a3b2ba
+Feel free to connect with me for feedback 
 Email: mk0882716@gmail.com
 
-## 📎 Project Structure
