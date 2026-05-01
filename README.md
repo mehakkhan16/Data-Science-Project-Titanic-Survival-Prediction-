@@ -73,10 +73,13 @@ The goal is to build a classification model that can accurately predict passenge
 ## 📎 Project Structure
 ├── notebook.ipynb
 ├── README.md
-├── report.pdf (to be added)
+├── report.pdf 
+
+## Links
+LinkedIn : https://www.linkedin.com/in/mehak-khan-688a3b2ba/
+
 
 ## 📬 Contact
 Feel free to connect with me for feedback
-LinkedIn : https://www.linkedin.com/in/mehak-khan-688a3b2ba/
 Email: mk0882716@gmail.com
 
