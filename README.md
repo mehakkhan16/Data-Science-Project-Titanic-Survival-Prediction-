@@ -78,6 +78,8 @@ The goal is to build a classification model that can accurately predict passenge
 ## Links
 LinkedIn : https://www.linkedin.com/in/mehak-khan-688a3b2ba/
 
+colab notebook : https://colab.research.google.com/github/mehakkhan16/Data-Science-Project-Titanic-Survival-Prediction-/blob/main/Titanic_Survival_Prediction_DataScience%20(1).ipynb#scrollTo=_5_CnD0vqbsU
+
 
 ## 📬 Contact
 Feel free to connect with me for feedback
